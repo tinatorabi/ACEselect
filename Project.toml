@@ -1,0 +1,9 @@
+[deps]
+ACEpotentials = "3b96b61c-0fcc-4693-95ed-1ef9f35fcc53"
+ActiveSetPursuit = "d86c1dc8-ba26-4c98-b330-3a8efc174d20"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+LARS = "ca81f029-5295-44ee-bb8b-6d7efe382a93"
+Lasso = "b4fcebef-c861-5a0f-a7e2-ba9dc32b180a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"

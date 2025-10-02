@@ -1,0 +1,2 @@
+/scratch/st-ortner-1/torabit/cace/cace-env/lib/python3.8/site-packages/cace/modules/symmetrize_basis.py:156: UserWarning: Specified kernel cache directory could not be created! This disables kernel caching. Specified directory is /home/torabit/.cache/torch/kernels. This warning will appear only once per process. (Triggered internally at ../aten/src/ATen/native/cuda/jit_utils.cpp:1442.)
+  product = torch.prod(node_attr[:, :, indices, :], dim=2)
